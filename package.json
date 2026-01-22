@@ -4,7 +4,7 @@
   "description": "Search for emails used by a given GitHub user",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/reifiedbeans/find-gh-commit-emails.git"
+    "url": "git+https://github.com/typeparameter/find-gh-commit-emails.git"
   },
   "license": "MIT",
   "type": "module",
